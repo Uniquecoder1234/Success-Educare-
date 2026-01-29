@@ -1,0 +1,7 @@
+{
+  "name": "Success Educare - Premium Learning",
+  "description": "A luxury, professional educational platform featuring interactive 3D environments and AI-powered success consulting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
